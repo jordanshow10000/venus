@@ -1,0 +1,6 @@
+Collecting tqdm
+  Using cached tqdm-4.65.0-py3-none-any.whl (77 kB)
+Collecting colorama (from tqdm)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: colorama, tqdm
+Successfully installed colorama-0.4.6 tqdm-4.65.0
